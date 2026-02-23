@@ -14,3 +14,15 @@ Each solution includes:
 1. Link to the original problem.
 2. Optimized C# code.
 3. Time & Space complexity analysis.
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/rotemustacchi/LeetCode_Solutions/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/rotemustacchi/LeetCode_Solutions/tree/master/0001-two-sum) |
+<!---LeetCode Topics End-->
