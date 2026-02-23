@@ -3,7 +3,7 @@
 Welcome! This repository tracks my progress in solving algorithmic challenges. As a **CS Honors Graduate**, I use this space to sharpen my **C# and OOP skills** and prepare for technical interviews.
 
 ## 📊 Progress Summary
-- **Total Solved:** 1 (והמספר יגדל בקרוב!)
+- **Total Solved:** 0
 - **Primary Language:** C# (.NET)
 
 ## 🛠 Project Structure
