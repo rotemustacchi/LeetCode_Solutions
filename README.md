@@ -1,6 +1,6 @@
 # 🚀 LeetCode Solutions in C#
 
-Welcome! This repository tracks my progress in solving algorithmic challenges. As a **CS Honors Graduate**, I use this space to sharpen my **C# and OOP skills** and prepare for technical interviews.
+Welcome! This repository tracks my progress in solving algorithmic challenges. As a **CS Honors Graduate**, I use this space to prepare for technical interviews.
 
 # LeetCode Topics
 ## Array
