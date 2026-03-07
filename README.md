@@ -21,6 +21,7 @@ Each solution includes:
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/rotemustacchi/LeetCode_Solutions/tree/master/0001-two-sum) |
+| [0027-remove-element](https://github.com/rotemustacchi/LeetCode_Solutions/tree/master/0027-remove-element) |
 ## Hash Table
 |  |
 | ------- |
@@ -51,6 +52,7 @@ Each solution includes:
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/rotemustacchi/LeetCode_Solutions/tree/master/0005-longest-palindromic-substring) |
+| [0027-remove-element](https://github.com/rotemustacchi/LeetCode_Solutions/tree/master/0027-remove-element) |
 ## Dynamic Programming
 |  |
 | ------- |
